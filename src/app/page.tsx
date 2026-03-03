@@ -70,7 +70,7 @@ export default function LandingPage() {
           tag="Award-Winning Agency"
           tagIcon={Sparkles}
           tagAnimation="slide-up"
-          background={{ variant: "aurora" }}
+          background={{ variant: "glowing-orb" }}
           kpis={[
             { value: "500+", label: "Projects Completed" },
             { value: "98%", label: "Client Satisfaction" },
