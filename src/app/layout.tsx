@@ -26,9 +26,11 @@ export const metadata: Metadata = {
     follow: true,
   },
   openGraph: {
-    title: "Webild – Creative Web Agency",    description: "Transforming ideas into digital excellence with strategic design and development.",    siteName: "Webild",    type: "website"},
+    title: "Webild – Creative Web Agency",    description: "Transforming ideas into digital excellence with strategic design and development.",    siteName: "Webild",    type: "website"
+  },
   twitter: {
-    card: "summary_large_image",    title: "Webild – Creative Web Agency",    description: "Award-winning creative solutions for innovative brands"},
+    card: "summary_large_image",    title: "Webild – Creative Web Agency",    description: "Award-winning creative solutions for innovative brands"
+  },
 };
 
 export default function RootLayout({
