@@ -58,8 +58,6 @@ export default function LandingPage() {
           ]}
           button={{ text: "Get Started", href: "#contact" }}
           animateOnLoad={true}
-          navItemClassName="text-sm font-medium"
-          buttonClassName="px-6 py-2"
         />
       </div>
 
