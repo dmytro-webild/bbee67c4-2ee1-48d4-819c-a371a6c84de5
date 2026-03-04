@@ -5,7 +5,7 @@
     "textRules": {
       "logoText": {
         "required": false,
-        "example": "Webild",
+        "example": "Wdebild",
         "minChars": 2,
         "maxChars": 30,
         "note": "Text used for SVG logo"
@@ -19,12 +19,12 @@
     }
   },
   "propsSchema": {
-    "logoText?": "string (default: 'Webild')",
+    "logoText?": "string (default: 'Wdebild')",
     "logoLineHeight?": "number (default: 1.1)",
     "ariaLabel?": "string (default: 'Site footer')",
     "className?": "string"
   },
-  "usageExample": "<FooterLogoReveal logoText=\"Webild\" />",
+  "usageExample": "<FooterLogoReveal logoText=\"Wdebild\" />",
   "do": [
     "Use for general use"
   ],
