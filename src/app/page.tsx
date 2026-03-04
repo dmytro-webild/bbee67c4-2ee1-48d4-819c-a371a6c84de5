@@ -63,7 +63,7 @@ export default function LandingPage() {
 
       <div id="hero" data-section="hero">
         <HeroSplitKpi
-          title="Creative Excellence Delivered"
+          title="Digital Experiences That Drive Results"
           description="We craft digital experiences that inspire, engage, and convert. From strategy to execution, we bring your vision to life with precision and creativity."
           tag="Award-Winning Agency"
           tagIcon={Sparkles}
