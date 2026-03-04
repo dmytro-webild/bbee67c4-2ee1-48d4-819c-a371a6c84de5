@@ -5,7 +5,7 @@
     "textRules": {
       "copyrightText": {
         "required": false,
-        "default": "© 2025 | Webild",
+        "default": "© 2025 | Wdebild",
         "example": "© 2025 Company Name",
         "minChars": 5,
         "maxChars": 50
