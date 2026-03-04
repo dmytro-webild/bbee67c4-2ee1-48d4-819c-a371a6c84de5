@@ -30,11 +30,11 @@ interface FooterBaseProps {
 
 const FooterBase = ({
   // logoSrc = "/brand/logowhite.svg",
-  logoText = "Webild",
+  logoText = "Wdebild",
   // logoWidth = 120,
   // logoHeight = 40,
   columns,
-  copyrightText = `© 2025 | Webild`,
+  copyrightText = `© 2025 | Wdebild`,
   onPrivacyClick,
   ariaLabel = "Site footer",
   className = "",
