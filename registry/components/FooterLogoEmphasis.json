@@ -5,7 +5,7 @@
     "textRules": {
       "logoText": {
         "required": false,
-        "default": "Webild",
+        "default": "Wdebild",
         "example": "Company Name",
         "minChars": 2,
         "maxChars": 30
@@ -40,7 +40,7 @@
   },
   "propsSchema": {
     "columns": "Array<{ items: Array<{ label: string, href?: string, onClick?: () => void }> }> - Footer navigation columns (required, max 5)",
-    "logoText?": "string (default: 'Webild')",
+    "logoText?": "string (default: 'Wdebild')",
     "ariaLabel?": "string (default: 'Site footer')",
     "className?": "string"
   },

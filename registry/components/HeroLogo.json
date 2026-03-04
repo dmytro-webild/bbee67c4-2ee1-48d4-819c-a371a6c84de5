@@ -5,7 +5,7 @@
     "textRules": {
       "logoText": {
         "required": true,
-        "example": "Webild",
+        "example": "Wdebild",
         "minChars": 2,
         "maxChars": 20
       },
@@ -67,7 +67,7 @@
     "ariaLabel?": "string (default: 'Hero section')",
     "className?": "string"
   },
-  "usageExample": "<ThemeProvider defaultButtonVariant=\"hover-bubble\" defaultTextAnimation=\"entrance-slide\" borderRadius=\"pill\">\n  <HeroLogo \n    logoText=\"Webild\" \n    description=\"Building the future of web design with innovative solutions\" \n    buttons={[{ text: 'Get Started', href: 'https://github.com' }, { text: 'Learn More', href: 'about' }]} \n    imageSrc=\"/placeholders/placeholder5.jpg\" \n    imageAlt=\"Hero background\"\n  />\n</ThemeProvider>",
+  "usageExample": "<ThemeProvider defaultButtonVariant=\"hover-bubble\" defaultTextAnimation=\"entrance-slide\" borderRadius=\"pill\">\n  <HeroLogo \n    logoText=\"Wdebild\" \n    description=\"Building the future of web design with innovative solutions\" \n    buttons={[{ text: 'Get Started', href: 'https://github.com' }, { text: 'Learn More', href: 'about' }]} \n    imageSrc=\"/placeholders/placeholder5.jpg\" \n    imageAlt=\"Hero background\"\n  />\n</ThemeProvider>",
   "do": [
     "Use for landing pages",
     "Use for feature showcases",

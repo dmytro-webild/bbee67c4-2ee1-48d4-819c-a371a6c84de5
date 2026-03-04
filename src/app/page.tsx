@@ -49,7 +49,7 @@ export default function LandingPage() {
     >
       <div id="nav" data-section="nav">
         <NavbarLayoutFloatingInline
-          brandName="Webild"
+          brandName="Wdebild"
           navItems={[
             { name: "Work", id: "work" },
             { name: "About", id: "about" },
@@ -161,13 +161,13 @@ export default function LandingPage() {
         <TestimonialCardFive
           testimonials={[
             {
-              id: "1",              name: "Sarah Mitchell, CEO of TechFlow",              date: "Date: 15 November 2024",              title: "Transformed Our Digital Presence",              quote: "Webild took our vision and exceeded every expectation. Their strategic approach combined with flawless execution resulted in a 250% increase in user engagement within the first quarter.",              tag: "SaaS Platform",              avatarSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg",              avatarAlt: "Sarah Mitchell",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=1"
+              id: "1",              name: "Sarah Mitchell, CEO of TechFlow",              date: "Date: 15 November 2024",              title: "Transformed Our Digital Presence",              quote: "Wdebild took our vision and exceeded every expectation. Their strategic approach combined with flawless execution resulted in a 250% increase in user engagement within the first quarter.",              tag: "SaaS Platform",              avatarSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg",              avatarAlt: "Sarah Mitchell",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=1"
             },
             {
               id: "2",              name: "James Rodriguez, Founder of BrandCo",              date: "Date: 20 October 2024",              title: "Best Investment We Made",              quote: "The team's creative thinking and technical expertise helped us stand out in a crowded market. They didn't just build a website; they built a brand experience.",              tag: "E-commerce",              avatarSrc: "http://img.b2bpic.net/free-photo/confident-beautiful-young-businesswoman-looking-camera-head-shot-portrait_1163-4928.jpg",              avatarAlt: "James Rodriguez",              imageSrc: "http://img.b2bpic.net/free-photo/confident-beautiful-young-businesswoman-looking-camera-head-shot-portrait_1163-4928.jpg"
             },
             {
-              id: "3",              name: "Emma Johnson, Marketing Director",              date: "Date: 05 September 2024",              title: "Exceptional Creative Partnership",              quote: "Working with Webild was like having a dedicated creative extension of our team. Their insights and deliverables consistently exceeded our expectations.",              tag: "Brand Strategy",              avatarSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg",              avatarAlt: "Emma Johnson",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=2"
+              id: "3",              name: "Emma Johnson, Marketing Director",              date: "Date: 05 September 2024",              title: "Exceptional Creative Partnership",              quote: "Working with Wdebild was like having a dedicated creative extension of our team. Their insights and deliverables consistently exceeded our expectations.",              tag: "Brand Strategy",              avatarSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg",              avatarAlt: "Emma Johnson",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=2"
             },
             {
               id: "4",              name: "Michael Chen, CTO of InnovateLabs",              date: "Date: 12 August 2024",              title: "Technical Excellence",              quote: "The quality of code and attention to performance was outstanding. They delivered a scalable solution that's grown with our business seamlessly.",              tag: "Tech Startup",              avatarSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg",              avatarAlt: "Michael Chen",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=3"
@@ -176,7 +176,7 @@ export default function LandingPage() {
               id: "5",              name: "Lisa Anderson, VP of Design at CreativeHub",              date: "Date: 28 July 2024",              title: "Creative Brilliance",              quote: "Their designers have an incredible eye for detail and understanding of user experience. Every pixel serves a purpose.",              tag: "Design Studio",              avatarSrc: "http://img.b2bpic.net/free-photo/smiling-young-businessman-suit-looking-camera-meeting_1163-4654.jpg",              avatarAlt: "Lisa Anderson",              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-businessman-suit-looking-camera-meeting_1163-4654.jpg?_wi=1"
             },
             {
-              id: "6",              name: "David Park, CEO of GrowthVentures",              date: "Date: 10 June 2024",              title: "Strategic Thinking + Execution",              quote: "Webild combines strategic planning with flawless execution. They've been instrumental in our growth trajectory.",              tag: "Venture Capital",              avatarSrc: "http://img.b2bpic.net/free-photo/smiling-young-businessman-suit-looking-camera-meeting_1163-4654.jpg",              avatarAlt: "David Park",              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-businessman-suit-looking-camera-meeting_1163-4654.jpg?_wi=2"
+              id: "6",              name: "David Park, CEO of GrowthVentures",              date: "Date: 10 June 2024",              title: "Strategic Thinking + Execution",              quote: "Wdebild combines strategic planning with flawless execution. They've been instrumental in our growth trajectory.",              tag: "Venture Capital",              avatarSrc: "http://img.b2bpic.net/free-photo/smiling-young-businessman-suit-looking-camera-meeting_1163-4654.jpg",              avatarAlt: "David Park",              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-businessman-suit-looking-camera-meeting_1163-4654.jpg?_wi=2"
             },
           ]}
           title="What Our Clients Say"
@@ -252,8 +252,8 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterCard
-          logoText="Webild"
-          copyrightText="© 2025 Webild Creative Agency. All rights reserved."
+          logoText="Wdebild"
+          copyrightText="© 2025 Wdebild Creative Agency. All rights reserved."
           socialLinks={[
             { icon: Twitter, href: "https://twitter.com/webild", ariaLabel: "Follow us on Twitter" },
             { icon: Linkedin, href: "https://linkedin.com/company/webild", ariaLabel: "Connect on LinkedIn" },

@@ -49,7 +49,7 @@ const NavbarStyleFullscreen = ({
   navItems,
   // logoSrc,
   // logoAlt = "",
-  brandName = "Webild",
+  brandName = "Wdebild",
   bottomLeftText = "Global Community",
   bottomRightText = "hello@example.com",
   topBarClassName = "",

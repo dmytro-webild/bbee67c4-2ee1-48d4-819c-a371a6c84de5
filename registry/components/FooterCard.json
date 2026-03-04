@@ -5,14 +5,14 @@
     "textRules": {
       "copyrightText": {
         "required": false,
-        "example": "© 2025 | Webild",
+        "example": "© 2025 | Wdebild",
         "minChars": 5,
         "maxChars": 100,
         "note": "Copyright text displayed at bottom left"
       },
       "logoText": {
         "required": false,
-        "example": "Webild",
+        "example": "Wdebild",
         "minChars": 2,
         "maxChars": 30,
         "note": "Text used for SVG logo"
@@ -32,14 +32,14 @@
     }
   },
   "propsSchema": {
-    "logoText?": "string (default: 'Webild')",
-    "copyrightText?": "string (default: '© 2025 | Webild')",
+    "logoText?": "string (default: 'Wdebild')",
+    "copyrightText?": "string (default: '© 2025 | Wdebild')",
     "socialLinks?": "Array<{ icon: LucideIcon, href: string, ariaLabel: string }> - Social media links",
     "ariaLabel?": "string (default: 'Site footer')",
     "className?": "string",
     "logoLineHeight?": "number (default: 1.1)"
   },
-  "usageExample": "<FooterCard logoText=\"Webild\" copyrightText=\"© 2025 | Webild\" socialLinks={[{ icon: Twitter, href: 'https://twitter.com/webild', ariaLabel: 'Twitter' }, { icon: Linkedin, href: 'https://linkedin.com/company/webild', ariaLabel: 'LinkedIn' }]} />",
+  "usageExample": "<FooterCard logoText=\"Wdebild\" copyrightText=\"© 2025 | Wdebild\" socialLinks={[{ icon: Twitter, href: 'https://twitter.com/webild', ariaLabel: 'Twitter' }, { icon: Linkedin, href: 'https://linkedin.com/company/webild', ariaLabel: 'LinkedIn' }]} />",
   "do": [
     "Use for general use",
     "Requires socialLinks?[]"
