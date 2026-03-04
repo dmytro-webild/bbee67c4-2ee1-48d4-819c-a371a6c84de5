@@ -9,7 +9,7 @@
       "required": false,
       "minChars": 2,
       "maxChars": 20,
-      "example": "Webild",
+      "example": "Wdebild",
       "fallbackBehavior": "Shows brandName text"
     },
     "linkRules": {
@@ -34,7 +34,7 @@
   },
   "propsSchema": {
     "navItems": "Array<{name: string, id: string}>",
-    "brandName?": "string (default: 'Webild')"
+    "brandName?": "string (default: 'Wdebild')"
   },
   "usageExample": "",
   "do": [
