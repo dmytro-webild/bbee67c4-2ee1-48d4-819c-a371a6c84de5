@@ -5,14 +5,14 @@
     "textRules": {
       "copyrightText": {
         "required": false,
-        "example": "© 2025 | Webild",
+        "example": "© 2025 | Wdebild",
         "minChars": 5,
         "maxChars": 100,
         "note": "Copyright text displayed at bottom left"
       },
       "logoText": {
         "required": false,
-        "example": "Webild",
+        "example": "Wdebild",
         "minChars": 2,
         "maxChars": 30,
         "note": "Text used for h2 heading"
@@ -33,14 +33,14 @@
     }
   },
   "propsSchema": {
-    "logoText?": "string (default: 'Webild')",
+    "logoText?": "string (default: 'Wdebild')",
     "columns": "Array<{ title: string, items: Array<{ label: string, href: string }> }> - Footer navigation columns",
-    "copyrightText?": "string (default: '© 2025 | Webild')",
+    "copyrightText?": "string (default: '© 2025 | Wdebild')",
     "onPrivacyClick?": "() => void",
     "ariaLabel?": "string (default: 'Site footer')",
     "className?": "string"
   },
-  "usageExample": "<FooterBaseCard columns={[{ title: 'Product', items: [{ label: 'Features', href: '/features' }, { label: 'Pricing', href: '/pricing' }] }, { title: 'Company', items: [{ label: 'About', href: '/about' }, { label: 'Blog', href: '/blog' }] }]} logoText=\"Webild\" copyrightText=\"© 2025 | Webild\" onPrivacyClick={() => console.log('Privacy clicked')} />",
+  "usageExample": "<FooterBaseCard columns={[{ title: 'Product', items: [{ label: 'Features', href: '/features' }, { label: 'Pricing', href: '/pricing' }] }, { title: 'Company', items: [{ label: 'About', href: '/about' }, { label: 'Blog', href: '/blog' }] }]} logoText=\"Wdebild\" copyrightText=\"© 2025 | Wdebild\" onPrivacyClick={() => console.log('Privacy clicked')} />",
   "do": [
     "Use for general use",
     "Requires columns[]"
