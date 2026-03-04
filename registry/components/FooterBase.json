@@ -5,14 +5,14 @@
     "textRules": {
       "logoText": {
         "required": false,
-        "default": "Webild",
+        "default": "Wdebild",
         "example": "Company Name",
         "minChars": 2,
         "maxChars": 30
       },
       "copyrightText": {
         "required": false,
-        "default": "© 2025 | Webild",
+        "default": "© 2025 | Wdebild",
         "example": "© 2025 Company Name",
         "minChars": 5,
         "maxChars": 50
@@ -50,8 +50,8 @@
   },
   "propsSchema": {
     "columns": "Array<{ title: string, items: Array<{ label: string, href: string }> }> - Footer navigation columns",
-    "logoText?": "string (default: 'Webild')",
-    "copyrightText?": "string (default: '© 2025 | Webild')",
+    "logoText?": "string (default: 'Wdebild')",
+    "copyrightText?": "string (default: '© 2025 | Wdebild')",
     "onPrivacyClick?": "() => void",
     "ariaLabel?": "string (default: 'Site footer')",
     "className?": "string"
