@@ -9,7 +9,7 @@
       "required": false,
       "minChars": 2,
       "maxChars": 20,
-      "example": "Webild",
+      "example": "Wdebild",
       "fallbackBehavior": "Shows brandName text"
     },
     "buttonRules": {
@@ -52,7 +52,7 @@
   "propsSchema": {
     "navItems": "Array<{name: string, id: string}>",
     "className?": "string",
-    "brandName?": "string (default: 'Webild')",
+    "brandName?": "string (default: 'Wdebild')",
     "button": "{text: string, onClick?: () => void, href?: string}"
   },
   "usageExample": "",
